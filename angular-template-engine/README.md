@@ -12,8 +12,8 @@ http://www.cerberussolutions.se
 Download and install [NodeJS](http://nodejs.org/)
 
     $ npm install -g grunt-cli                                      		// Install Grunt globally
-    $ git clone ...  								// Clone the project and enter directory
-    $ cd angular-template-engine
+    $ git clone https://github.com/nicolassavin18/Angularjs.git					// Clone the project and enter directory
+    $ cd ./Angularjs/angular-template-engine
     $ npm install                                                   		// Install dependencies
     $ grunt                                                         		// Run the default task
 
