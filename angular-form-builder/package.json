@@ -11,10 +11,6 @@
     "AngularJS",
     "CoffeeScript"
   ],
-  "author": {
-    "name": "Viktor Johnson <viktor.j8979@outlook.com>",
-    "url": ""
-  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-coffee": "^0.12.0",
