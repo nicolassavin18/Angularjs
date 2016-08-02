@@ -69,11 +69,6 @@
     "preprotractor": "npm run update-webdriver",
     "protractor": "protractor protractor.conf.js"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "author": "Viktor Johnson <viktor.j8979@outlook.com>",
   "license": "MIT",
   "homepage": ""
 }
