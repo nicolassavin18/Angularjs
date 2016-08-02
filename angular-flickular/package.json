@@ -3,10 +3,6 @@
   "author_name": "Mark Wylde",
   "author_email": "mark.wylde@verl.com",
   "author_url": "http://www.markwylde.com/",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-cli": "0.1.13",
