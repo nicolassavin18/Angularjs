@@ -9,9 +9,6 @@
     "angular": "~1.4.8",
     "angular-route": "~1.4.8"
   },
-  "authors": [
-    "Viktor Johnson <viktor.j8979@outlook.com>"
-  ],
   "private": true,
   "ignore": [
     "**/.*",
