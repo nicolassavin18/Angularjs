@@ -9,10 +9,6 @@
     "web",
     "components"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/winner12263/Angular-TemplateEngine.git"
-  },
   "main": "gruntfile.js",
   "devDependencies": {
     "angular-mocks": "^1.4.7",
