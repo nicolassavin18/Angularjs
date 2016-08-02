@@ -30,7 +30,6 @@
     "jasmine-core": "latest",
     "phantomjs-prebuilt": "latest",
     "requirejs": "latest"
-  },
-  "author": "Viktor Johnson",
+  }
   "license": "BSD-2-Clause"
 }
